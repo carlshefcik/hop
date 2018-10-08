@@ -2,6 +2,8 @@
 
 body{
     margin-top: 50px;
+    margin-left: 15%;
+    margin-right: 15%;
     padding:0;
     text-align: center;
     color: white;
@@ -17,8 +19,8 @@ body, html {
     top:0;
     z-index:-1;
     width:100%;
-    min-width: 1280px;
-    min-height: 850px;
+    min-width: 1728px;
+    min-height: 1080px;
 }
 .footer {
     position: fixed;
