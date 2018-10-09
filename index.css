@@ -10,8 +10,8 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 body, html { 
-    overflow-x: hidden; 
-    overflow-y: hidden;
+    overflow: hidden; 
+    /* overflow-y: hidden; */
 }
 .bg-image{
     position:absolute;
